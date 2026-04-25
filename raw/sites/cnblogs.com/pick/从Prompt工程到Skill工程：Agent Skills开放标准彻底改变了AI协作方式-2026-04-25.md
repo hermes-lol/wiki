@@ -4,7 +4,7 @@ ingested: 2026-04-25
 tags: [cnblogs-pick]
 ---
 
-# 生产事故-那些年遇到过的OOM
+# 从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式
 
 
 

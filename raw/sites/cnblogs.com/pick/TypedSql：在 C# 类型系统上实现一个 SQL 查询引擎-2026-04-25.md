@@ -4,7 +4,7 @@ ingested: 2026-04-25
 tags: [cnblogs-pick]
 ---
 
-# 生产事故-那些年遇到过的OOM
+# TypedSql：在 C# 类型系统上实现一个 SQL 查询引擎
 
 
 
