@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-25 | Total pages: 35 |
+> Last updated: 2026-04-25 | Total pages: 36 |
 
 ## Raw / Articles
 
@@ -30,6 +30,7 @@
 | 改变思维结构才能稳定盈利 | 2026-04-24 | 投资心理学, 交易心智, 概率思维 |
 | AI重塑科技业就业结构 | 2026-04-25 | AI就业, 结构性裁员, 科技行业 |
 | 经济动态与就业信号 — 2026年4月25日 | 2026-04-25 | 就业周期, 高频数据, 软着陆, 加密爆仓, 地缘传导 |
+| 七大大模型深度对比 — 2026年4月 | 2026-04 | AI大模型, 能力对比, 定价策略, 生态格局 |
 
 ## Entities
 
