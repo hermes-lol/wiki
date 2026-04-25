@@ -1,0 +1,24 @@
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.bak
+*.log
+
+# Obsidian workspace (local only)
+.obsidian/
+
+# Exclude embedded repos from tracking
+# These are external clones that shouldn't be in the wiki repo
+raw/sites/codefather.cn/
+raw/sites/javaguide.cn/
+raw/sites/github.com_liu-jianhao_Cpp-Design-Patterns/
